@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Add Employee</title>
+</head>
+<body>
+
+	<form action="/EMS_Servlet/EmployeeServlet" method="GET">
+	
+		Employee_Id   : <input type="text" name="employeeId"> <br>
+		Employee_Name : <input type="text" name="employeeName"><br>
+		Email_Id      : <input type = "text" name="emailId"><br>
+		Password      : <input type ="text" name="password"><br>
+		Country       : <input type ="text" name="country"><br>
+	
+		<input type="hidden" name="choice"  value="1">
+		<button type="submit">ADD EMPLOYEE</button>   <button type="reset">CLEAN</button>
+	</form>
+	
+</body>
+</html>

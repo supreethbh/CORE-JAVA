@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EMS_Servlet
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: s322
+Implementation-Vendor-Id: org.hibernate
+Build-Jdk: 1.8.0_261
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://validator.hibernate.org
+Implementation-Vendor: org.hibernate
+
